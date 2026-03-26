@@ -1,0 +1,6 @@
+Model,MAE (₹),RMSE (₹),R² Score,CV R² (mean)
+Gradient Boosting,561.43,698.7,0.7349,0.8092
+Linear Regression,595.83,749.74,0.6948,0.8195
+Ridge Regression,591.69,755.24,0.6903,0.8186
+Random Forest,638.88,812.19,0.6418,0.7474
+Decision Tree,871.83,1099.02,0.3442,0.5407
